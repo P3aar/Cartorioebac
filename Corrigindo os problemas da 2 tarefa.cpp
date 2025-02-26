@@ -1,6 +1,6 @@
-#include <stdio.h> //biblioteca de comunicac„o com o usu·rio
-#include <stdlib.h> //biblioteca de alocaÁ„o de espaco em memÛria
-#include <locale.h> //biblioteca de alocaÁıes de texto por regi„o
+#include <stdio.h> //biblioteca de comunicac√£o com o usu√°rio
+#include <stdlib.h> //biblioteca de aloca√ß√£o de espaco em mem√≥ria
+#include <locale.h> //biblioteca de aloca√ß√µes de texto por regi√£o
 #include <string.h> //biblioteca responsavel por cuidar das string
 
 int registro() //Funcao responsavel por cadastrar os usuarios no sistema
