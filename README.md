@@ -1,7 +1,7 @@
 📜 Cartório da EBAC
 
 Bem-vindo ao Cartório da EBAC!
-Aqui ficam registrados todos os projetos desenvolvidos durante minha formação em Tecnologia da Informação / Análise de Dados pela EBAC. 🚀
+Aqui ficam registrados alguns dos projetos desenvolvidos durante minha formação em Tecnologia da Informação / Análise de Dados pela EBAC. 🚀
 
 🗂️ Índice dos Projetos
 📊 Análise de Dados
