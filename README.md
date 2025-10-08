@@ -49,4 +49,4 @@ Organizar e documentar meu aprendizado, criando uma trilha de projetos que mostr
 
 📬 Contato
 
-Feito com 💚 por Yuri Borges
+Feito por Yuri Borges 💚
